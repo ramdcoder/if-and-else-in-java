@@ -1,0 +1,19 @@
+// variable of type integer number
+int i,b,c;
+// now we will declare our value
+i = 3;
+b = 5;
+// we can use variable to create other
+c = i + b;
+//We will use the if and else
+if(i > b){
+//We will use the 'System.out.print' to print in console 
+System.out.print("The value of "+i+ " is bigger then "+ b+ " and their sum is " +c);
+}//now we use the if else to outher option
+if else(i == b){
+System.out.print("The value of " +i+ " is equals "+ b+ " and their sum is " +c);
+}//and we use only else for final option
+else{
+System.out.print("The value of " +i+ " is less than "+ b+ " and their sum is " +c);}
+//End
+
